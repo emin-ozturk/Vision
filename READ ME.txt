@@ -1,0 +1,7 @@
+Proje Android Studio 3.5.3 ile geliştirilmiştir.
+
+Uygulamanın çalışmama dosyalarının çalışmama ihtimaline karşılık rapor içerisinde uygulamanın
+çalışması ile ilgili görseller yer alınmıştır.
+
+Ek olarak görüntü çok net olmamakla birlikte uygulama kodları arasında "Vision Tanıtımı.mp4"
+adlı uygulamanın çalışmasını gösteren bir video yer almaktadır. 

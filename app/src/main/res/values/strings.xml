@@ -1,0 +1,69 @@
+<resources>
+    <string name="app_name">Vision</string>
+
+    <string name="matchTR">Eşleşme Bulunamadı</string>
+    <string name="saveTR">Resim Kaydedildi</string>
+    <string name="languageTR">Bu Dil Desteklenmiyor</string>
+    <string name="selectLanguageTR">Dil Seç</string>
+    <string name="cancelTR">İPTAL</string>
+    <string name="okTR">TAMAM</string>
+    <string name="objectDetectionTR">Nesne Tanımlama</string>
+    <string name="galleryTR">Galeri</string>
+    <string name="cameraTR">Kamera</string>
+    <string name="liveViewTR">Canlı Görüntü</string>
+    <string name="shortLanguageTR">TR</string>
+
+
+    <string name="matchEN">No Match Found</string>
+    <string name="saveEN">Picture Saved</string>
+    <string name="languageEN">This Language Is Not Supported</string>
+    <string name="selectLanguageEN">Select Language</string>
+    <string name="cancelEN">CANCEL</string>
+    <string name="okEN">OK</string>
+    <string name="objectDetectionEN">Object Detection</string>
+    <string name="galleryEN">Gallery</string>
+    <string name="cameraEN">Camera</string>
+    <string name="liveViewEN">Live View</string>
+    <string name="shortLanguageEN">EN</string>
+
+
+    <string name="matchFR">Aucune Correspondance Trouvée</string>
+    <string name="saveFR">İmage Enregistrée</string>
+    <string name="languageFR">Cette Langue N\'est Pas Pris En Charge</string>
+    <string name="selectLanguageFR">Choisissez La Langue</string>
+    <string name="cancelFR">ANNULATION</string>
+    <string name="okFR">D\'ACCORD</string>
+    <string name="objectDetectionFR">Identification D\'objet</string>
+    <string name="galleryFR">Galerie</string>
+    <string name="cameraFR">Appareil Photo</string>
+    <string name="liveViewFR">Vue En Direct</string>
+    <string name="shortLanguageFR">FR</string>
+
+
+    <string name="matchDE">Kein Spiel Gefunden</string>
+    <string name="saveDE">Bild Aufgezeichnet</string>
+    <string name="languageDE">Diese Sprache Wird Nicht Unterstützt</string>
+    <string name="selectLanguageDE">Wähle Die Sprache</string>
+    <string name="cancelDE">STORNIERUNG</string>
+    <string name="okDE">OKAY</string>
+    <string name="objectDetectionDE">Objektidentifikation</string>
+    <string name="galleryDE">Galerie</string>
+    <string name="cameraDE">Kamera</string>
+    <string name="liveViewDE">Live View</string>
+    <string name="shortLanguageDE">DE</string>
+
+
+    <string name="matchES">Ninguna Coincidencia Encontrada</string>
+    <string name="saveES">İmagen Registro</string>
+    <string name="languageES">Este İdioma No Es Compatible</string>
+    <string name="selectLanguageES">Seleccione El İdioma</string>
+    <string name="cancelES">CANCELAR</string>
+    <string name="okES">OKAY</string>
+    <string name="objectDetectionES">Identificación De Objetos</string>
+    <string name="galleryES">Galería</string>
+    <string name="cameraES">Cámara</string>
+    <string name="liveViewES">Vista En Vivo</string>
+    <string name="shortLanguageES">ES</string>
+
+
+</resources>
